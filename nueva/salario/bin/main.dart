@@ -1,7 +1,5 @@
 import 'dart:io';
 
-import 'package:salario_trabajador/salario_trabajador.dart' as salario_trabajador;
-
 void main(List<String> arguments) {
 /*
 * CREAR UN PROGRAMA EN DART QUE CALCULE EL SALIARIO DE UN TRABAJADOR EN BASE A LO SIGUIENTE 
