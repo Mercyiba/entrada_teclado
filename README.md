@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+programacion en dar con tema de entrada por teclado
+ejemplo con variable de tipo string.
+ITCA FEPADE
