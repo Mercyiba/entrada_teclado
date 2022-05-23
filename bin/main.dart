@@ -11,9 +11,13 @@
 
 print('Digite su sexo:');
   sexo = stdin.readLineSync();
+  print('digite su salario:');
+  var salario = stdin.readLineSync();
+
   print('Su nombre es: $nombre');
   print ('Su direccion es: $direccion');
   print ('Su sexo es: $sexo');
+  print ('Su salario  es: $salario');
 }
 
 
